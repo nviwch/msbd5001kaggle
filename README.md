@@ -3,6 +3,8 @@ Wong Chun Hin
 chwongat
 20121161
 
+I have tried two regressors
+
 Python packages for catboost regressor
 1.numpy
 2.pandas
