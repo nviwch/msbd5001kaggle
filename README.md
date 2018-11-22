@@ -1,4 +1,8 @@
 # msbd5001kaggle
+Wong Chun Hin
+chwongat
+20121161
+
 Python packages for catboost regressor
 1.numpy
 2.pandas
