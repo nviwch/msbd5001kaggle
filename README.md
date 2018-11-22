@@ -3,7 +3,7 @@ Wong Chun Hin
 chwongat
 20121161
 
-I have tried two regressors
+I have tried two regressors, their outputs are a list of number, so I need to copy them manually into the submission format csv
 
 Python packages for catboost regressor
 1.numpy
